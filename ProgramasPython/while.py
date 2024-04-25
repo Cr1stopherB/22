@@ -30,14 +30,10 @@ def cena():
 # cena()
 
 
+op=int(input("Seleccione una opcion: "))
+match op:
+  case 1:
+    verifpassw()
+    
 
-def cantMicros():
-  cantMicros=0
-
-  while cantMicros!=3:
-    print("Ha pasado una micro?")
-    resp=input()
-
-    if resp=="si":
-      cantMicros=cantMicros+1
 
