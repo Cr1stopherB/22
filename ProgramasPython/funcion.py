@@ -56,16 +56,16 @@ print("3.- Division")
 print("4.- Multiplicacion")
 op=int(input())
 
-match op:
-    case 1:
-        print("Ingrese 2 numeros para que sean divididos")
-        num1=int(input())
-        num2=int(input())
-        print(suma(num1,num2))
-    case 2:
-    case 3:
+# match op:
+#     case 1:
+#         print("Ingrese 2 numeros para que sean divididos")
+#         num1=int(input())
+#         num2=int(input())
+#         print(suma(num1,num2))
+#     case 2:
+#     case 3:
 
-    case 4:
+#     case 4:
         
 
 #LLAMAR A LA FUNCION 
@@ -73,4 +73,4 @@ match op:
 #SIN ARGUMENTO () <-
 # <-CUANDO LA FUNCION NO TIEEN ARGUMENTO SE RABAJA DE ESTA FORMA
         
-# estudiar }= if for while
+# estudiar = if for while
