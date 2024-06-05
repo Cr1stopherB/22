@@ -1,6 +1,6 @@
 import random
 
-nombres=["Chris", "Maximiliano", "Alberto", ""]
+nombres=["Chris", "Maximiliano", "Alberto"]
 edades=[]
 for i in range(len(nombres)):
     num=random.randint(1, 99)
