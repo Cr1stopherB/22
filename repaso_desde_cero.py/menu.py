@@ -1,10 +1,3 @@
-1
-
-
-
-
-
-
 
 stay=True
 gasto=0
